@@ -1,5 +1,7 @@
 # Surya Prakash Reddy Gouni
 
+![Surya Prakash Reddy Gouni's Headshot](Headshot.jpeg)
+
 - **Email:** gounisuryaprakash6142@gmail.com
 - **Phone:** +1 (667)303-5113
 - **Location:** Baltimore, Maryland 21075

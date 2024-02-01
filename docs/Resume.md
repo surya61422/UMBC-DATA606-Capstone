@@ -1,6 +1,6 @@
 # Surya Prakash Reddy Gouni
 
-<img src="" alt="Surya Prakash Reddy Gouni's Headshot" width="150">
+<img src="https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/Headshot.jpeg" alt="Surya Prakash Reddy Gouni's Headshot" width="200">
 
 - **Email:** gounisuryaprakash6142@gmail.com
 - **Phone:** +1 (667)303-5113

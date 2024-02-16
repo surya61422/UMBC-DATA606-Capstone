@@ -4,10 +4,8 @@
 - **Project Title:** Predicting Customer Subscription to Personal Loan Offers
 - **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 - **Author Name:** [Your Name]
-- **GitHub Profile:** [Your GitHub Profile](link)
-- **LinkedIn Profile:** [Your LinkedIn Profile](link)
-- **PowerPoint Presentation:** [Presentation File](link)
-- **YouTube Video:** [Video Link](link)
+- **GitHub Profile:** [Your GitHub Profile](https://github.com/surya61422)
+- **LinkedIn Profile:** [Your LinkedIn Profile](https://www.linkedin.com/in/surya-prakash-reddy-gouni-148011213/)
 
 ## Background
 ### What is it about?

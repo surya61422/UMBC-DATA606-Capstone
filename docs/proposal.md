@@ -24,7 +24,7 @@ Understanding the factors influencing customers' decisions to subscribe to perso
 The dataset provided by the bank contains information on 5000 customers.
 
 ### Data Details
-- **Data Size:** Not specified
+- **Data Size:** 212 kb
 - **Data Shape:** 5000 rows, [Number of columns]
 - **Time Period:** Not specified
 - **Each Row Represents:** A customer's demographic and banking information, along with their response to the previous personal loan campaign.

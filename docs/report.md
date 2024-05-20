@@ -100,4 +100,62 @@ To achieve the project goals, the following steps will be undertaken:
 
 ## Data Visualisations
 ### 1.Value of count of age
-https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-1.png
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-1.png)
+### 2.Value of count of income distribution
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-2.png)
+### 3.Value of count of education level
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-3.png)
+### 4.Value of count of personal loan acceptance by education level
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-4.png)
+### 5.Relationship between age and income
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-5.png)
+### 6.Value of count of family sizes
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-6.png)
+### 7.correlation matrix
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-7.png)
+
+## Model building
+### Report on Logistic Regression for Predicting Customer Subscription to Personal Loan Offers
+
+#### Introduction
+
+The aim of this report is to detail the implementation and performance evaluation of Logistic Regression in predicting customer subscription to personal loan offers. Logistic Regression is a binary classification algorithm, and in this project, it helps determine whether a customer will accept a personal loan offer based on various demographic and banking-related attributes.
+
+#### Methodology Overview
+
+1. **Data Exploration and Preprocessing:**
+   - Explored the dataset to understand its distribution and handle missing values appropriately.
+   - Encoded categorical variables and normalized numerical variables to prepare the data for modeling.
+
+2. **Feature Selection:**
+   - Identified significant features using correlation analysis and feature importance from machine learning models.
+
+3. **Model Building:**
+   - Trained multiple machine learning models, including Logistic Regression, to predict personal loan subscription.
+
+4. **Model Evaluation and Selection:**
+   - Compared the performance of different models using metrics such as accuracy, precision, recall, and F1-score.
+   - Selected the best-performing model based on evaluation metrics for final deployment.
+
+#### Logistic Regression Implementation
+
+1. **Data Preparation:**
+   - **Feature Selection:** Dropped irrelevant features like 'ID' and 'ZIP Code'. The target variable is 'Personal Loan'.
+   - **Data Splitting:** Split the dataset into training (80%) and testing (20%) sets.
+   - **Feature Scaling:** Standardized numerical features using StandardScaler.
+
+2. **Model Training:**
+   - Utilized Logistic Regression to train the model on the preprocessed training data.
+
+3. **Model Prediction and Evaluation:**
+   - Predicted the target variable on the test data using the trained model.
+   - Evaluated the model's performance using accuracy, confusion matrix, and classification report.
+
+#### Results and Analysis
+
+- **Accuracy:** Achieved an accuracy of 95%, indicating that the model correctly predicts personal loan subscriptions for 95% of the customers in the test dataset.
+- **Confusion Matrix:** The confusion matrix provides insight into the model's performance in terms of true positive, true negative, false positive, and false negative predictions.
+- **Classification Report:** The classification report presents precision, recall, F1-score, and support for each class, providing a comprehensive evaluation of the model's performance across different metrics.
+
+## Deployment using streamlit
+With Streamlit, an open-source Python toolkit, you can quickly and easily develop interactive web apps for data science, machine learning, and other applications. It makes writing Python scripts that automatically convert into interactive web applications easier when creating data-driven web applications.

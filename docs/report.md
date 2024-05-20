@@ -159,3 +159,17 @@ The aim of this report is to detail the implementation and performance evaluatio
 
 ## Deployment using streamlit
 With Streamlit, an open-source Python toolkit, you can quickly and easily develop interactive web apps for data science, machine learning, and other applications. It makes writing Python scripts that automatically convert into interactive web applications easier when creating data-driven web applications.
+![image](https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/Streamlit.png)
+## Conclusion
+
+
+In conclusion, this study demonstrates the effective use of a dataset containing demographic and banking-related characteristics to predict client subscription to personal loan offers using logistic regression. We made certain that the model had pertinent and useful data for producing precise predictions by applying rigorous data exploration, preprocessing methods, and feature selection. The final model's remarkable 95% accuracy rate shows how reliable it is in predicting consumer actions linked to the approval of personal loans. Moreover, thorough assessment metrics that confirmed the model's efficacy and dependability included the confusion matrix and classification report, which offered deeper insights into the model's performance.
+The significance of machine learning algorithms, such logistic regression, in providing financial institutions with useful information to improve client interaction and marketing tactics is highlighted by this study. Banks may increase customer satisfaction and loyalty by customizing their loan offerings to each individual's tastes and requirements by utilizing the predictive powers of these models. In the end, this research demonstrates how data-driven methods may revolutionize strategic decision-making and maximize financial sector business outcomes.
+
+
+
+
+
+
+
+

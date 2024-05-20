@@ -6,7 +6,8 @@
 - **Author Name:** Surya Prakash Reddy Gouni
 - **GitHub Profile:** https://github.com/surya61422
 - **LinkedIn Profile:** https://www.linkedin.com/in/surya-prakash-reddy-gouni-148011213/
-
+- **Youtube link:** https://youtu.be/XnEZytazAwQ
+  
 ## Background
 ### What is it about?
 This project aims to predict whether customers will subscribe to personal loan offers provided by a bank based on various demographic and banking-related attributes.

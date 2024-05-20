@@ -99,4 +99,5 @@ To achieve the project goals, the following steps will be undertaken:
    - Use the insights gained from the model to suggest improvements in marketing strategies, targeting high-potential customers more effectively.
 
 ## Data Visualisations
-
+### 1.Value of count of age
+https://github.com/surya61422/UMBC-DATA606-Capstone/blob/main/app/DV-1.png
